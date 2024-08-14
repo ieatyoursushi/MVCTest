@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{57E0B838-C420-4698-8F94-8B0091ACEDC3}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVCTest/Models/Movie.cs">
+    <Files>
+      <File FileName="MVCTest/Views/_ViewStart.cshtml" Line="1" Column="1" IsPinned="True" />
+      <File FileName="MVCTest/Program.cs" />
+      <File FileName="MVCTest/Controllers/HomeController.cs" />
+      <File FileName="MVCTest/Views/Home/Index.cshtml" />
+      <File FileName="MVCTest/Models/ErrorViewModel.cs" />
+      <File FileName="MVCTest/Properties/launchSettings.json" />
+      <File FileName="MVCTest/Views/Home/Privacy.cshtml" />
+      <File FileName="MVCTest/Views/HelloWorld/Index.cshtml" />
+      <File FileName="MVCTest/wwwroot/js/site.js" Line="5" Column="1" />
+      <File FileName="MVCTest/Models/Movie.cs" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVCTest" expanded="True">
+            <Node name="MVCTest" expanded="True">
+              <Node name="Controllers" expanded="True" selected="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVCTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
